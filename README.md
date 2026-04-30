@@ -1,21 +1,43 @@
-# 🎨 Color Palette Generator
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,30&height=180&section=header&text=Color%20Palette%20Generator%20🎨&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Beautiful%20palettes%20for%20your%20next%20project&descAlignY=58&descSize=16" width="100%"/>
+</div>
 
-A beautiful and intuitive color palette generator for designers and developers. Generate random, monochrome, analogous, and complementary color schemes with one click.
+<div align="center">
 
-![React](https://img.shields.io/badge/React-19.2.0-blue)
-![Vite](https://img.shields.io/badge/Vite-7.2.4-purple)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+
+</div>
+
+<br/>
+
+## 🎨 Overview
+
+Generate **beautiful color palettes** instantly — Random, Monochrome, Analogous, and Complementary schemes. Click any swatch to copy its hex code.
+
+<br/>
+
+## 🖼️ Screenshot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/matan4749/color-palette-generator/main/docs/screenshot.png" width="800"/>
+</div>
+
+<br/>
 
 ## ✨ Features
 
-- **Multiple Color Schemes**: Random, Monochrome, Analogous, Complementary
-- **One-Click Copy**: Click any color to copy its hex code
-- **Save Palettes**: Save your favorite palettes for later use
-- **Keyboard Shortcuts**: Press Space to generate new palette
-- **Local Storage**: Saved palettes persist between sessions
-- **Responsive Design**: Beautiful UI on all devices
-- **Color Algorithms**: Advanced HSL color manipulation
+- 🎲 **Random** — Generate a completely random 5-color palette
+- ⚫ **Monochrome** — Shades and tints of a single hue
+- 🌈 **Analogous** — Adjacent colors on the color wheel
+- 🔵🟠 **Complementary** — Opposite colors for maximum contrast
+- 📋 **Copy hex** — Click any swatch to copy its hex code
+- ⌨️ **Space shortcut** — Press Space to regenerate instantly
+- 💾 **Save** — Download your favorite palette
 
-## 🚀 Quick Start
+<br/>
+
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/matan4749/color-palette-generator.git
@@ -24,46 +46,11 @@ npm install
 npm run dev
 ```
 
-## 🎯 Color Schemes
+<br/>
 
-- **Random**: 5 completely random colors
-- **Monochrome**: Different shades of the same color
-- **Analogous**: Colors that are adjacent on the color wheel
-- **Complementary**: Colors opposite on the color wheel
+<div align="center">
 
-## 🛠️ Technologies
+Made with ❤️ by [Matan Amar](https://matan.life)
 
-- **React 19.2** - UI library
-- **Vite 7.2** - Build tool
-- **CSS3** - Modern styling with gradients
-- **Local Storage** - Palette persistence
-
-## 📱 Usage
-
-1. Click any scheme button to generate a palette
-2. Click on a color card to copy its hex code
-3. Press Space to generate a random palette
-4. Save palettes with the Save button
-5. Load or delete saved palettes later
-
-## 💡 Features Showcase
-
-- Hover effects on color cards
-- Smooth animations and transitions
-- Copy confirmation feedback
-- Saved palettes management
-- Keyboard shortcuts
-
-## 👨‍💻 Author
-
-**Matan Amar**
-- GitHub: [@matan4749](https://github.com/matan4749)
-- Portfolio: [matan.life](https://matan.life)
-
-## 📄 License
-
-MIT License
-
----
-
-⭐ Perfect for designers, developers, and anyone working with colors!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,30&height=80&section=footer" width="100%"/>
+</div>
